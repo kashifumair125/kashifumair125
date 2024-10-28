@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android, Web development **
+- 💬 Ask me about **Android development, Web development **
 
 - 📫 How to reach me **kashifumair125@gmail.com**
 
