@@ -38,10 +38,6 @@ Feel free to explore my projects and let's connect! 🙌
 
 Here are some of the key projects I've worked on:
 
-- **[Avarton - Apple/iPhone Website Clone](https://github.com/kashifumair125/Avarton)**  
-  A clone website of Apple/iPhone built using HTML, CSS, and JavaScript.  
-  🚀 [Live Demo](https://kashifumair125.github.io/Avarton/)
-
 - **[Bus Booking App](https://github.com/kashifumair125/Bus_Booking_App)**  
   An Android application for booking bus tickets with a smooth and user-friendly interface. This app allows users to search for available buses, view details like bus timings, seat availability, and prices, and book tickets directly from the app.  
   ### Key Features:
@@ -53,5 +49,10 @@ Here are some of the key projects I've worked on:
   - **User-Friendly UI**: Simple and intuitive design for easy navigation.
   
   This project was built using **Android Studio**, **Java**, and **XML** .
+
+- **[Avarton - Apple/iPhone Website Clone](https://github.com/kashifumair125/Avarton)**  
+  A clone website of Apple/iPhone built using HTML, CSS, and JavaScript.  
+  🚀 [Live Demo](https://kashifumair125.github.io/Avarton/)
+  
 ---
 
