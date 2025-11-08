@@ -14,10 +14,10 @@ Feel free to explore my projects and let's connect! 🙌
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express, Django
-- **Android Development**: Kotlin, Java, Android SDK
-- **Database**: MySQL, MongoDB
+- **Android Development**: Kotlin, Java, Android SDK, Flutter 
+- **Database**: MySQL, MongoDB 
 - **Version Control**: Git, GitHub
-- **Other**: Python, RESTful APIs, Firebase, GraphQL
+- **Other**: Python, RESTful APIs, Firebase, GraphQL, GCL,
 
 ---
 
