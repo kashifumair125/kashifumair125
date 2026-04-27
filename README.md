@@ -1,114 +1,136 @@
-# Hi there, I'm Kashif! 👋
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umair-kashif/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kashifumair125@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kashifumair125)
+# Umair Kashif
+
+**NLP/ML Engineer · Published Researcher · MLOps & RAG Specialist**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-umair--kashif-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-kashif/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-kashii1-FFD21F?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/kashii1)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-kashifumair125-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kashii1)
+[![Email](https://img.shields.io/badge/Email-kashifumair125@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kashifumair125@gmail.com)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **Full-Stack Developer** with expertise in **Android Development** and **Machine Learning**. Currently pursuing my degree at **MIT Manipal** (Class of 2025), I love building innovative solutions that make a difference.
+## About
 
-- 🔭 Building scalable web and mobile applications
-- 🌱 Exploring AI/ML, Flutter, and modern web technologies
-- 💡 Open to collaborating on exciting open-source projects
-- 🎯 Always learning and adapting to new technologies
+NLP/ML engineer with a **published transformer research paper** (ICIST 2025, co-first author) and hands-on experience building **production-grade RAG systems** deployed across GCP Cloud Run, HuggingFace Spaces, Docker Hub, and GitHub Actions CI/CD pipelines.
+
+MCA graduate from **Manipal Institute of Technology, MAHE** (2025). Open to ML Engineering, AI Backend, and NLP roles.
 
 ---
 
-## 💻 Skills & Technologies
+## 🔬 Publication
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Transformer Based Sentiment Analysis for Drug Reviews** · [View Paper →](https://drive.google.com/file/d/15zgGlyZCdXar-vupIaGuRtOxNycQyr2U/view)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Other Technologies
-- RESTful APIs
-- Chrome Extensions Development
-- Responsive Web Design
-- Agile Methodologies
-- Version Control (Git/GitHub)
+Benchmarked 5 transformer models — BERT, XLNet, BigBird, SqueezeBERT, FastText+XGBoost — on 1,350 drug reviews from the UCI ML repository. **BigBird achieved best performance: macro F1 = 0.88** (precision 0.89, recall 0.87). Presented at **ICIST 2025**, Manipal Institute of Technology. Co-first author.
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🌿 [Focus Garden](https://github.com/kashifumair125/Focus-Garden)
-A beautiful gamified focus timer app built with **Flutter** that helps boost productivity while growing your virtual garden.
+### 🏛️ MAS Regulatory Q&A — RAG System
+> Production-grade RAG pipeline for Singapore MAS regulatory documents
 
-### 📊 [Indian Stock Price Prediction](https://github.com/kashifumair125/Indian-Stock-Price-Prediction)
-Machine learning model using **Python** for predicting stock market trends with live deployment.
+**Stack:** LangChain (LCEL) · FAISS · Sentence Transformers (all-MiniLM-L6-v2) · Streamlit · Docker · GCP Cloud Run · GitHub Actions
 
-### 🏥 [Age-Less](https://github.com/kashifumair125/Age-Less)
-Comprehensive health tracking application in **Flutter/Dart** designed to monitor and improve biological age through personalized interventions.
+- Ingests MAS regulatory PDFs, chunks + embeds with all-MiniLM-L6-v2, stores in FAISS
+- Retrieves top-k chunks for grounded LLM answers with exact source citations
+- Deployed on **4 platforms**: HuggingFace Spaces · Docker Hub · GCP Cloud Run (Singapore) · GitHub Actions CI/CD
 
-### 📝 [Resume Analyzer](https://github.com/kashifumair125/resume-analyzer)
-AI-powered web tool that assesses resume alignment with job descriptions and provides improvement suggestions.
-
-### 🚌 [Bus Booking App](https://github.com/kashifumair125/Bus_Booking_App)
-Android application built with **Java** for seamless bus transportation booking services.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21F?style=flat&logo=huggingface)](https://huggingface.co/spaces/kashii1/mas-rag)
+[![GCP](https://img.shields.io/badge/GCP_Deploy-Cloud_Run-4285F4?style=flat&logo=googlecloud)](https://mas-rag-26912506161.asia-southeast1.run.app)
+[![Repo](https://img.shields.io/badge/GitHub-mas--rag-181717?style=flat&logo=github)](https://github.com/kashifumair125/mas-rag)
 
 ---
 
-## 🤝 Let's Connect!
+### 📈 Indian Stock Price Prediction
+> ML pipeline for 30+ NSE stocks with 97% R² accuracy
 
-I'm always open to interesting conversations and collaboration opportunities!
+**Stack:** scikit-learn · Streamlit · Docker · GCP Cloud Run · GitHub Actions
 
-- 📧 **Email**: [kashifumair125@gmail.com](mailto:kashifumair125@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/umair-kashif](https://www.linkedin.com/in/umair-kashif/)
-- 🐙 **GitHub**: [github.com/kashifumair125](https://github.com/kashifumair125)
+- 30+ engineered features: RSI, MACD, Bollinger Bands, ATR, EMA/SMA, 5 lag features
+- Ridge Regression, Random Forest, Gradient Boosting — best model R² ≈ 0.97, MAPE < 1% on TCS.NS
+- Dual trading signal system: short-term (RSI + MACD crossover) and long-term (golden cross + Bollinger Bands)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21F?style=flat&logo=huggingface)](https://huggingface.co/spaces/kashii1/indian-stock-prediction)
+[![GCP](https://img.shields.io/badge/GCP_Deploy-Mumbai-4285F4?style=flat&logo=googlecloud)](https://indian-stock-prediction-1078044545456.asia-south1.run.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/Indian-Stock-Price-Prediction)
+
+---
+
+### 🤖 Resume Tailor AI
+> AI-powered ATS optimizer — tailors resumes to job descriptions in under 2 minutes
+
+**Stack:** TypeScript · AI APIs · Web
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/resume-tailor-ai)
+
+---
+
+### 🌸 Postpartum Recovery AI
+> Offline-first, privacy-focused fitness app for postpartum women
+
+**Stack:** TypeScript · AI · Mobile
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/-POSTPARTUM-RECOVERY-AI-)
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML / NLP**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT%2FTransformers-yellow?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0055A4?style=flat)
+
+**MLOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Backend & Mobile**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+[![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashifumair125&show_icons=true&theme=default&hide_border=true)](https://github.com/kashifumair125)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifumair125&layout=compact&hide_border=true&theme=default)](https://github.com/kashifumair125)
 
 ---
 
 <div align="center">
 
-### ⭐ Fun Fact
-*"Code is like humor. When you have to explain it, it's bad!"* 😄
-
-![Profile Views](https://komarev.com/ghpvc/?username=kashifumair125&color=blueviolet&style=for-the-badge)
-
-**Thanks for stopping by! Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!**
+📫 **kashifumair125@gmail.com** · [LinkedIn](https://www.linkedin.com/in/umair-kashif/) · [HuggingFace](https://huggingface.co/kashii1)
 
 </div>
