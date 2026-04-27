@@ -2,7 +2,7 @@
 
 # Umair Kashif
 
-**NLP/ML Engineer · Published Researcher · MLOps & RAG **
+NLP/ML Engineer · Published Researcher · MLOps & RAG 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-umair--kashif-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-kashif/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-kashii1-FFD21F?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/kashii1)
