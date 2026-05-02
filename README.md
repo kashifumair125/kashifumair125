@@ -60,4 +60,11 @@ I'm **Umair Kashif**, AI Engineer (NLP · RAG · MLOps) focused on building prod
 
 ---
 
-✨ *Focused on building real-world AI systems that actually ship.*
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kashifumair125&theme=default&hide_border=true)
+
+</div>
+✨ *Focused on building real-world AI systems that actually ship.
