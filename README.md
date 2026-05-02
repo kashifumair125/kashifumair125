@@ -53,13 +53,15 @@ I'm **Umair Kashif**, AI Engineer (NLP · RAG · MLOps) focused on building prod
 
 ## 🚀 Featured Work
 
-* 🏛️ MAS Regulatory Q&A (RAG system, multi-platform deployment)
-* 📈 Stock Prediction ML Pipeline (R² ≈ 0.97)
-* 🤖 Resume Tailor AI (ATS optimization)
-* 🌸 Postpartum Recovery AI (privacy-focused mobile app)
+*  MAS Regulatory Q&A (RAG system, multi-platform deployment)
+*  Stock Prediction ML Pipeline (R² ≈ 0.97)
+*  Resume Tailor AI (ATS optimization)
+*  Postpartum Recovery AI (privacy-focused mobile app)
 
 ---
+ Focused on building real-world AI systems that actually ship.
 
+---
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -67,4 +69,3 @@ I'm **Umair Kashif**, AI Engineer (NLP · RAG · MLOps) focused on building prod
 ![GitHub Streak](https://streak-stats.demolab.com?user=kashifumair125&theme=default&hide_border=true)
 
 </div>
-✨ *Focused on building real-world AI systems that actually ship.
