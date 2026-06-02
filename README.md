@@ -1,19 +1,20 @@
 <div align="center">
 
 # Umair Kashif
-**AI Engineer ·  AI-Native Builder**
+**Applied AI Engineer · AI-Native Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-umair--kashif-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-kashif/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-kashii1-FFD21F?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/kashii1)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-kashifumair125-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/kashifumair125)
+[![Medium](https://img.shields.io/badge/Medium-@kashifumair125-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kashifumair125)
 [![Email](https://img.shields.io/badge/Email-kashifumair125@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kashifumair125@gmail.com)
 
 </div>
 
 ---
 
-I build AI systems and I use AI tools to build them faster.
-Claude, Gemini, Cursor, Copilot daily workflow, not occasional use.
+I build production-grade AI systems and I use AI tools to build them faster.
+Claude, Gemini, Cursor, Copilot — daily workflow, not occasional use.
 I understand the architecture; the AI helps me ship at speed.
 
 **MCA · MIT Manipal (2025) · Presented at ICIST 2025 · Open to work**
@@ -31,6 +32,17 @@ I build with AI tools as a first instinct, not a last resort.
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=flat)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=flat)
 
+---
+
+## 💼 Experience
+
+### Software Engineer Intern — Ganglia Technologies
+*Feb 2025 – May 2025 · Karnataka, India*
+
+- Built and maintained a React-based admin portal with CRUD workflows, role-based access control, and request management modules across frontend and backend systems.
+- Developed Python automation scripts and backend analytics workflows for anomaly detection and high-volume request processing.
+- Integrated REST APIs using Axios and Fetch, refactored React components for maintainability, and collaborated across Node.js backend workflows.
+- Created onboarding documentation and conducted internal training sessions to improve developer onboarding and reduce operational overhead.
 
 ---
 
@@ -50,7 +62,7 @@ I build with AI tools as a first instinct, not a last resort.
 
 ### 📈 Indian Stock Price Prediction R² ≈ 0.97
 > ML pipeline for 30+ NSE stocks. MAPE <1% on TCS.NS.
-> Dual trading signal system short-term and long-term.
+> Dual trading signal system — short-term and long-term.
 
 `scikit-learn` `Gradient Boosting` `Random Forest` `Streamlit` `Docker` `GCP Cloud Run`
 
@@ -60,21 +72,49 @@ I build with AI tools as a first instinct, not a last resort.
 
 ---
 
-### 🤖 Resume Tailor AI
-> AI-powered ATS optimizer. Tailors resumes to job descriptions in under 2 minutes.
+### 🤖 Worknoon Refund Agent
+> AI-powered e-commerce refund processing system that evaluates refund requests against a deterministic corporate refund policy.
 
-`TypeScript` `AI APIs` `ATS Optimization`
+`JavaScript` `AI Agent` `Policy Engine`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/resume-tailor-ai)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/Worknoon-Refund-Agent)
+
+---
+
+### 📄 ContractSentinel
+> Multi-agent system that analyzes enterprise contracts for risk, policy violations, and generates redlined rewrites instantly.
+
+`Python` `FastAPI` `PDFPlumber` `Groq API` `Orchestrator` `LLMs`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/Contractsentinel)
+
+---
+
+### 🏥 ClinicalLens
+> AI-powered second opinion engine that challenges clinical diagnoses using FHIR patient data.
+
+`Python` `FHIR R4` `Google ADK` `A2A Protocol` `Groq` `Healthcare AI`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/Clinicallens)
 
 ---
 
 ### 🌸 ContextOS
 > RAG gives you chunks. ContextOS gives you understanding.
+> Hierarchical knowledge graph memory for LLMs — multi-hop reasoning over long documents.
 
-`Python` `NetworkX` `Groq API` `FastAPI`
+`Python` `NetworkX` `Groq API` `FastAPI` `Graph RAG` `Semantic Search`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/ContextOS-)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/ContextOS)
+
+---
+
+### 📝 Resume Tailor AI
+> AI-powered ATS optimizer. Tailors resumes to job descriptions in under 2 minutes.
+
+`TypeScript` `AI APIs` `ATS Optimization`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/kashifumair125/resume-tailor-ai)
 
 ---
 
@@ -91,10 +131,30 @@ I build with AI tools as a first instinct, not a last resort.
 
 ---
 
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**
+Manipal Institute of Technology, MAHE · Karnataka, India · 2023–2025
+
+**Bachelor of Computer Applications (BCA)**
+GH Raisoni Institute of Information Technology · Nagpur, India · 2019–2022
+
+---
+
+## 📜 Certifications
+
+- Machine Learning for All — University of London
+- Developing Back-End Apps with Node.js — IBM
+- What is Data Science? — IBM
+- Linux Server Management and Security — University of Colorado
+
+---
+
 ## 💻 Tech Stack
 
 **AI / ML / NLP**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LCEL](https://img.shields.io/badge/LCEL-1C3C3C?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-0055A4?style=flat)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -105,6 +165,7 @@ I build with AI tools as a first instinct, not a last resort.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat)
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -113,11 +174,18 @@ I build with AI tools as a first instinct, not a last resort.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Backend & Databases**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -133,6 +201,6 @@ I build with AI tools as a first instinct, not a last resort.
 
 <div align="center">
 
-📫 kashifumair125@gmail.com · [LinkedIn](https://linkedin.com/in/umair-kashif) · [HuggingFace](https://huggingface.co/kashii1)
+📫 kashifumair125@gmail.com · [LinkedIn](https://linkedin.com/in/umair-kashif) · [HuggingFace](https://huggingface.co/kashii1) · [Medium](https://medium.com/@kashifumair125)
 
 </div>
