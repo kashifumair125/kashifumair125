@@ -31,7 +31,6 @@ I build with AI tools as a first instinct, not a last resort.
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=flat)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=flat)
 
-🎓 Currently: Anthropic Certified Developer · [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 
 ---
 
